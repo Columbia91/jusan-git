@@ -1,4 +1,5 @@
 ﻿# stepik-id-printer (h1)
+![jusan-logo](https://github.com/Columbia91/TechOrda/blob/main/git/4%20branch/jusan-logo.png?raw=true)
 
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
 
